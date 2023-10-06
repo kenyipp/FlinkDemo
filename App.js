@@ -74,6 +74,7 @@ const App = () => {
         cacheEnabled={false}
         scalesPageToFit
         startInLoadingState={true}
+        javaScriptEnabled
       />
     </SafeAreaView>
   );
